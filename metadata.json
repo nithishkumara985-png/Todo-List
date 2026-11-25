@@ -1,0 +1,6 @@
+{
+  "name": "My To-Do List",
+  "description": "A clean, responsive to-do list web application to create, edit, search, filter, and track pending and completed tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
